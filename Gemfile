@@ -10,5 +10,3 @@ gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
   gem 'jemoji'
 end
-
-gem "jekyll-shell-theme"
