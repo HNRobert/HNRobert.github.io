@@ -10,6 +10,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+remote_theme: tareqdandachi/jekyll-shell-theme
+
 sass:
   style: compressed
 
@@ -22,5 +24,3 @@ header_pages:
 
 # set the size of the text to 'large' or 'small', default is small
 font-size: small
-
-theme: jekyll-shell-theme
