@@ -1,9 +1,9 @@
-title: "jekyll-shell-theme"
-tagline: "A jekyll theme that looks like a shell/terminal"
-description: "This is a preview of jekyll-shell-theme."
-github_username: tareqdandachi
-baseurl: "/jekyll-shell-theme"
-url: "https://tareqdandachi.github.io"
+title: "HNRobert Online"
+tagline: "HNRobert Online"
+description: "HNRobert Online"
+github_username: HNRobert
+baseurl: "/HNRobert.github.io"
+url: "https://HNRobert.github.io"
 
 plugins:
   - jemoji
@@ -22,3 +22,5 @@ header_pages:
 
 # set the size of the text to 'large' or 'small', default is small
 font-size: small
+
+theme: jekyll-shell-theme
